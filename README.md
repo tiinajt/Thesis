@@ -1,2 +1,2 @@
 # Thesis
-Dedicated for my master's thesis project about T/NK cells across hematological malignancies
+Repository for my master's thesis project: INTEGRATIVE SINGLE CELL ANALYSIS OF SURFACE PROTEINS AND TRANSCRIPTOMES OF BONE MARROW T/NK-CELLS ACROSS HEMATOLOGICAL MALIGNANCIES
