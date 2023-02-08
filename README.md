@@ -4,7 +4,7 @@ Repository for my master's thesis project: INTEGRATIVE SINGLE CELL ANALYSIS OF S
 ## WORK PACKAGES: 
 
 ### WP1: Identification of T- and NK-cell clusters and comparison of established marker gene and protein expression between the clusters. 
-### Q1: # Which clusters corresponds to different T/NK cell types based on marker gene(s) established in recent publications? 
+Q1: Which clusters corresponds to different T/NK cell types based on marker gene(s) established in recent publications? 
 Q2: Can we identify similar clustering results based on transcriptomes or surface protein markers when comparing to clusters obtained from joint representation by the neural network? 
 Task 1: Clustering analysis based on transcriptomes/surface proteins and based on joint representation (Methods: Scanpy) 
 Task 2: Comparisons of the results of clustering analyses (Methods: visualization tools such as seaborn and matplotlib). 
