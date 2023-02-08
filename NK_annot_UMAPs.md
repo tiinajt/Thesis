@@ -6,5 +6,5 @@ Neurips dataset:
 
 [NK cell annotations by Yang et al., (2019)](https://studentuef-my.sharepoint.com/:u:/g/personal/tiinajt_uef_fi/EctRp40Clz9Lk5ZggCC6xGsBL-K7h9DZU3HIWASuMeJSsQ?e=M5mm7g)
 
-[NK cell annotation by Melsen et al., (2022)(
+[NK cell annotation by Melsen et al., (2022)](
 https://studentuef-my.sharepoint.com/:u:/g/personal/tiinajt_uef_fi/EYJ2C46e9sJGpCHSrI0neuIBJVcwWAK1Pt0JQn8PQDpp5w?e=fx2bpF)
