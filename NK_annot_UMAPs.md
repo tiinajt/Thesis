@@ -14,3 +14,6 @@ Neurips dataset:
 
 [NK cell annotations by Yang et al., (2019), all samples](https://studentuef-my.sharepoint.com/:u:/g/personal/tiinajt_uef_fi/EZUZ1c_1BvRNquhdFHLxA3UBRaqGEOunwPHYPCm0H1Gjag?e=jnLFDm)
 
+[Separating ILCs, gd T cells and NK cells, s4d1](https://studentuef-my.sharepoint.com/:u:/g/personal/tiinajt_uef_fi/Ebi-f2wjtcZCvHmQ2GfE4N4B5fWAqeYCSstdFKVAjwKH1A?e=te1DbA)
+
+[Separating ILCs, gd T cells and NK cells, s4d9](https://studentuef-my.sharepoint.com/:u:/g/personal/tiinajt_uef_fi/EZ9pPq5FVt1JkV8l4NOeCSQB8pXnNEI_i6zc0N5iZ19dDA?e=KKOfps)
