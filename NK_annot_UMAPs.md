@@ -4,9 +4,9 @@ This file contains links to notebooks, where different NK cell markers collected
 
 Neurips dataset:
 
-[NK cell annotations by Yang et al., (2019), s4d1 ](https://studentuef-my.sharepoint.com/:u:/g/personal/tiinajt_uef_fi/EctRp40Clz9Lk5ZggCC6xGsBL-K7h9DZU3HIWASuMeJSsQ?e=M5mm7g)
+[NK cell annotations by Yang et al., (2019), s4d1 ](https://studentuef-my.sharepoint.com/:u:/g/personal/tiinajt_uef_fi/EZERHYAEaEVIpL9FjLnjeEUBuzSVeQEwSkt90vhbNAlJSg?e=i3yCI0)
 
-[NK cell annotation by Melsen et al., (2022), s4d1](https://studentuef-my.sharepoint.com/:u:/g/personal/tiinajt_uef_fi/EYJ2C46e9sJGpCHSrI0neuIBJVcwWAK1Pt0JQn8PQDpp5w?e=fx2bpF)
+[NK cell annotation by Melsen et al., (2022), s4d1](https://studentuef-my.sharepoint.com/:u:/g/personal/tiinajt_uef_fi/EUnzLnkD1I5EoD93RHyvP_QBHxMD5Kt8AcIY7kVk5G1lbw?e=U81yKN)
 
 [NK cell annotation by Melsen et al., (2022), all samples](https://studentuef-my.sharepoint.com/:u:/g/personal/tiinajt_uef_fi/EWmYUPDoRLJGlFIiDbuBZBEByktJtmvE3N6BXmE-bl7HlA?e=9UyXJn)
 
