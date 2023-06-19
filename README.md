@@ -1,5 +1,5 @@
 # Thesis
-This epository is dedicated to my MSc thesis project: Integrated multi-omic characterization of human bone marrow natural killer cells in healthy subjects and hematological disease patients
+This repository is dedicated to my MSc thesis project: Integrated multi-omic characterization of human bone marrow natural killer cells in healthy subjects and hematological disease patients
 
 # WP1:
 
